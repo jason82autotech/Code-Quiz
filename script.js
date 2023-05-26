@@ -11,6 +11,7 @@ var highScoreScreen = document.querySelector("#highscore-section");
 var highScoreDisplay = document.querySelector("#highscore-display-section");
 var initialsEl = document.querySelector("#initials");
 var feedbackEl = document.querySelector("#feedback");
+var clearbtn = document.querySelector("#clear-btn")
 
 var questionsEl = document.querySelector("#question");
 var choicesEl = document.querySelector("#choices");
