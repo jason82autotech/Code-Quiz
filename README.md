@@ -22,3 +22,4 @@ The following animation demonstrates the application functionality:
 A GIF demonstrates a functioning quiz with a timer.
 All work is my own with the help of tutors, classmates, google and You Tube.
 Why does this work perfectly fine in VS Code, but does not work at all when deployed to Github?
+Source code is on Github, here is the URL; https://github.com/jason82autotech/Code-Quiz.git
