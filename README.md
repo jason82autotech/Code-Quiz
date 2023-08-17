@@ -1,7 +1,7 @@
 # Code-Quiz
-Module 4 Challenge
-User Story
-AS A coding boot camp student
+Module 4 Challenge:
+User Story;
+As A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 Acceptance Criteria
@@ -15,7 +15,7 @@ THEN time is subtracted from the clock
 WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
-THEN I can save my initials and score
+THEN I can save my initials and score.
 
 Here is a screenshot of my deployed application:
 
@@ -23,6 +23,6 @@ Here is a screenshot of my deployed application:
 
 All work is my own with the help of tutors, classmates, google and You Tube.
 
-Source code is on Github, here is the URL: https://github.com/jason82autotech/Code-Quiz.git
+Source code is on Github, here is the URL of the repository: https://github.com/jason82autotech/Code-Quiz.git
 
-Deployed application can be viewed here: https://jason82autotech.github.io/Code-Quiz/
+The functional, deployed application can be viewed here: https://jason82autotech.github.io/Code-Quiz/
