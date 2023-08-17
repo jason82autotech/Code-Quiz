@@ -1,7 +1,7 @@
 var questions = [
     {
         title: "Commonly Used data types DO NOT include:",
-        choices: ["stings", "alerts", "booleans", "numbers"],
+        choices: ["strings", "alerts", "booleans", "numbers"],
         answer: "alerts"
     },
     {
