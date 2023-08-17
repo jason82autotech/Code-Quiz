@@ -19,8 +19,10 @@ THEN I can save my initials and score
 
 Here is a screenshot of my deployed application:
 
-
+![Screenshot of deployed code-quiz](screenshot-code-quiz.png)
 
 All work is my own with the help of tutors, classmates, google and You Tube.
-Why does this work perfectly fine in VS Code, but does not work at all when deployed to Github?
-Source code is on Github, here is the URL; https://github.com/jason82autotech/Code-Quiz.git
+
+Source code is on Github, here is the URL: https://github.com/jason82autotech/Code-Quiz.git
+
+Deployed application can be viewed here: https://jason82autotech.github.io/Code-Quiz/
